@@ -1,13 +1,8 @@
 import './App.css';
+import HomePage from './pages/homePage';
 
 function App() {
-  return (
-    <div className="App">
-      <h1 class="text-3xl font-bold underline">
-        CRED
-      </h1>
-    </div>
-  );
+  return <HomePage />;
 }
 
 export default App;

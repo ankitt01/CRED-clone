@@ -1,3 +1,13 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@import "./common/styles/fonts/fonts.css";
+@import "./common/styles/variable.css";
+
+body {
+    font-family: Gilroy, sans-serif;
+    box-sizing: border-box;
+    background-color: var(--bg-black);
+    color: var(--text);
+}
