@@ -1,7 +1,13 @@
 module.exports = {
   content: ["./src/**/*.{html,js}"],
   theme: {
+    minHeight: {
+      '70': '70%',
+    },
     extend: {
+      backgroundImage: {
+        'product-showcase': "url('https://web-images.credcdn.in/_next/assets/images/home-page/video-bg.png')",
+      },
       colors: {
         "bg-black": "#0f0f0f",
         "text": "#f8f8f8",
