@@ -7,6 +7,9 @@ module.exports = {
     extend: {
       backgroundImage: {
         'product-showcase': "url('https://web-images.credcdn.in/_next/assets/images/home-page/video-bg.png')",
+        'feel-special': "url('https://web-images.credcdn.in/_next/assets/images/home-page/deserve-more-bg.jpg')",
+        'sm-feel': "url('https://web-images.credcdn.in/_next/assets/images/home-page/deserve-more-bg-mobile.jpg')",
+        
       },
       colors: {
         "bg-black": "#0f0f0f",
