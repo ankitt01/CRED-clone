@@ -33,23 +33,23 @@ const ProductShowcase = () => {
           { showAnimation && <div className='images min-h-70 flex grow justify-center'>
             <img
               src="https://web-images.credcdn.in/_next/assets/images/home-page/phone/left-2.png"
-              className=""
+              alt="product"
             />
             <img
               src="https://web-images.credcdn.in/_next/assets/images/home-page/phone/left-1.png"
-              className=""
+              alt="product"
             />
             <img
               src="https://web-images.credcdn.in/_next/assets/images/home-page/phone/center.png"
-              className=""
+              alt="product"
             />
             <img
               src="https://web-images.credcdn.in/_next/assets/images/home-page/phone/right-1.png"
-              className=""
+              alt="product"
             />
             <img
               src="https://web-images.credcdn.in/_next/assets/images/home-page/phone/right-2.png"
-              className=""
+              alt="product"
             />
           </div>}
         </div>

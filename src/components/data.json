@@ -1,0 +1,29 @@
+[
+    {
+      "id":1,
+      "head":"feel special more often.",
+      "sub-head":"exclusive rewards for paying your bills",
+      "sub-subhead" : "every time you pay your credit card bills on CRED, you receive CRED coins. you can use these to win exclusive rewards or get special access to curated products and experiences. on CRED, good begets good.",
+      "btn-data": "Explore rewards",
+      "img-src": "url('https://web-images.credcdn.in/_next/assets/images/home-page/deserve-more-bg.jpg')",
+      "sm-img-src": "url('https://web-images.credcdn.in/_next/assets/images/home-page/deserve-more-bg-mobile.jpg')"
+    },
+    {
+      "id":2,
+      "head":"we take your money matters seriously.",
+      "sub-head":"so that you don’t have to.",
+      "sub-subhead" : "never miss a due date with reminders to help you pay your bills on time, instant settlements mean you never wait for your payments to go through and statement analysis lets you know where your money goes, always.",
+      "btn-data": "Experience the upgrade",
+      "img-src": "url('https://web-images.credcdn.in/_next/assets/images/home-page/trust-bg.jpg')",
+      "sm-img-src": "url('https://web-images.credcdn.in/_next/assets/images/home-page/trust-bg-mobile.jpg')"
+    },
+    {
+      "id":3,
+      "head":"security first.and second.",
+      "sub-head":"what’s yours remains only yours.",
+      "sub-subhead" : "CRED ensures that all your personal data and transactions are encrypted, and secured so what’s yours remains only yours. there’s no room for mistakes because we didn’t leave any.",
+      "btn-data": "Become a member",
+      "img-src": "url('https://web-images.credcdn.in/_next/assets/images/home-page/money-matters-bg.jpg')",
+      "sm-img-src": "url('https://web-images.credcdn.in/_next/assets/images/home-page/money-matters-bg-mobile.jpg')"
+    }
+  ]

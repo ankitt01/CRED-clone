@@ -3,8 +3,8 @@ import FeelSpecial from '../components/FeelSpecial'
 import Header from '../components/Header'
 import HeroSection from '../components/HeroSection'
 import ProductShowcase from '../components/ProductShowcase'
-
 const HomePage = () => {
+  
   return (
     <div>
         <Header />
