@@ -9,13 +9,14 @@ module.exports = {
         'product-showcase': "url('https://web-images.credcdn.in/_next/assets/images/home-page/video-bg.png')",
         'deserve': "url('https://web-images.credcdn.in/_next/assets/images/home-page/deserve-more-bg.jpg')",
         'smDeserve': "url('https://web-images.credcdn.in/_next/assets/images/home-page/deserve-more-bg-mobile.jpg')",
-        "trust": "url('https://web-images.credcdn.in/_next/assets/images/home-page/trust-bg.jpg')",
-        "smTrust": "url('https://web-images.credcdn.in/_next/assets/images/home-page/trust-bg-mobile.jpg')",
-        "security": "url('https://web-images.credcdn.in/_next/assets/images/home-page/money-matters-bg.jpg')",
-        "smSecurity": "url('https://web-images.credcdn.in/_next/assets/images/home-page/money-matters-bg-mobile.jpg')",
+        "trust": "url('https://web-images.credcdn.in/_next/assets/images/home-page/money-matters-bg.jpg')",
+        "smTrust": "url('https://web-images.credcdn.in/_next/assets/images/home-page/money-matters-bg-mobile.jpg')",
+        "security" : "url('https://web-images.credcdn.in/_next/assets/images/home-page/security-bg.jpg')",
+        "smSecurity" : "url('https://web-images.credcdn.in/_next/assets/images/home-page/security-bg-mobile.jpg')",
         "brands": "url('https://web-images.credcdn.in/_next/assets/images/home-page/brands-desktop.png')",
         "smBrands": "url('https://web-images.credcdn.in/_next/assets/images/home-page/brands-mobile.png')",
-        "parllax": "url(https://web-images.credcdn.in/_next/assets/images/home-page/image-mock.jpg)"
+        "parllax": "url(https://web-images.credcdn.in/_next/assets/images/home-page/image-mock.jpg)",
+        "story": "url('https://web-images.credcdn.in/_next/assets/images/home-page/trust-bg-mobile.jpg')"
       },
       colors: {
         "bg-black": "#0f0f0f",
