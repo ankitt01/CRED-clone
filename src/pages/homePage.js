@@ -7,6 +7,8 @@ import Trust from '../components/Trust'
 import Security from '../components/Security'
 import Brands from '../components/Brands'
 import Parallax from '../components/Parallax'
+import MobileScroll from '../components/MobileScroll'
+import CredStory from '../components/CredStory'
 const HomePage = () => {
   
   return (
@@ -17,8 +19,10 @@ const HomePage = () => {
         <DeserveMore />
         <Brands />
         <Trust />
+        <MobileScroll />
         <Parallax />
         <Security />
+        <CredStory />
     </div>
   )
 }
