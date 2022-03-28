@@ -7,9 +7,12 @@ module.exports = {
     extend: {
       backgroundImage: {
         'product-showcase': "url('https://web-images.credcdn.in/_next/assets/images/home-page/video-bg.png')",
-        'feel-special': "url('https://web-images.credcdn.in/_next/assets/images/home-page/deserve-more-bg.jpg')",
-        'sm-feel': "url('https://web-images.credcdn.in/_next/assets/images/home-page/deserve-more-bg-mobile.jpg')",
-        
+        'deserve': "url('https://web-images.credcdn.in/_next/assets/images/home-page/deserve-more-bg.jpg')",
+        'smDeserve': "url('https://web-images.credcdn.in/_next/assets/images/home-page/deserve-more-bg-mobile.jpg')",
+        "trust": "url('https://web-images.credcdn.in/_next/assets/images/home-page/trust-bg.jpg')",
+        "smTrust": "url('https://web-images.credcdn.in/_next/assets/images/home-page/trust-bg-mobile.jpg')",
+        "security": "url('https://web-images.credcdn.in/_next/assets/images/home-page/money-matters-bg.jpg')",
+        "smSecurity": "url('https://web-images.credcdn.in/_next/assets/images/home-page/money-matters-bg-mobile.jpg')",
       },
       colors: {
         "bg-black": "#0f0f0f",

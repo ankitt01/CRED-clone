@@ -1,8 +1,10 @@
 import React from 'react'
-import FeelSpecial from '../components/FeelSpecial'
+import DeserveMore from '../components/DeserveMore'
 import Header from '../components/Header'
 import HeroSection from '../components/HeroSection'
 import ProductShowcase from '../components/ProductShowcase'
+import Trust from '../components/Trust'
+import Security from '../components/Security'
 const HomePage = () => {
   
   return (
@@ -10,7 +12,9 @@ const HomePage = () => {
         <Header />
         <HeroSection />
         <ProductShowcase />
-        <FeelSpecial />
+        <DeserveMore />
+        <Trust />
+        <Security />
     </div>
   )
 }
