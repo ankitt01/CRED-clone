@@ -5,6 +5,8 @@ import HeroSection from '../components/HeroSection'
 import ProductShowcase from '../components/ProductShowcase'
 import Trust from '../components/Trust'
 import Security from '../components/Security'
+import Brands from '../components/Brands'
+import Parallax from '../components/Parallax'
 const HomePage = () => {
   
   return (
@@ -13,7 +15,9 @@ const HomePage = () => {
         <HeroSection />
         <ProductShowcase />
         <DeserveMore />
+        <Brands />
         <Trust />
+        <Parallax />
         <Security />
     </div>
   )

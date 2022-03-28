@@ -13,6 +13,9 @@ module.exports = {
         "smTrust": "url('https://web-images.credcdn.in/_next/assets/images/home-page/trust-bg-mobile.jpg')",
         "security": "url('https://web-images.credcdn.in/_next/assets/images/home-page/money-matters-bg.jpg')",
         "smSecurity": "url('https://web-images.credcdn.in/_next/assets/images/home-page/money-matters-bg-mobile.jpg')",
+        "brands": "url('https://web-images.credcdn.in/_next/assets/images/home-page/brands-desktop.png')",
+        "smBrands": "url('https://web-images.credcdn.in/_next/assets/images/home-page/brands-mobile.png')",
+        "parllax": "url(https://web-images.credcdn.in/_next/assets/images/home-page/image-mock.jpg)"
       },
       colors: {
         "bg-black": "#0f0f0f",
