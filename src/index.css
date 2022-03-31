@@ -338,3 +338,7 @@ body {
       opacity: 1;
     }
   }
+
+  .footer-sec p{
+    margin: 10px 0;
+  }

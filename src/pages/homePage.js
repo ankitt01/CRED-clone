@@ -9,6 +9,8 @@ import Brands from '../components/Brands'
 import Parallax from '../components/Parallax'
 import MobileScroll from '../components/MobileScroll'
 import CredStory from '../components/CredStory'
+import Ratings from '../components/Ratings'
+import Footer from '../components/Footer'
 const HomePage = () => {
   
   return (
@@ -23,6 +25,8 @@ const HomePage = () => {
         <Parallax />
         <Security />
         <CredStory />
+        <Ratings />
+        <Footer />
     </div>
   )
 }
